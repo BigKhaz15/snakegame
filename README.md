@@ -14,6 +14,7 @@ Created by [BigKhaz15](https://github.com/BigKhaz15)
 - Collision detection with walls and self
 - Restart game anytime with the `R` key
 - Clean, class-based architecture (Snake, Food, Scoreboard)
+- Tracks and saves your high score across sessions using a local highscore.txt file.
 
 ---
 
